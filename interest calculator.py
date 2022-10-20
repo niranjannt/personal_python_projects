@@ -1,0 +1,6 @@
+x=input("What is the principal amount")
+y=input("What is the rate of interest")
+z=input("What is the number of years")
+a = float(x)*(1+ (0.1* float(y)))**float(z)
+round(a)
+print("The total amount is" + " " + str(a))
