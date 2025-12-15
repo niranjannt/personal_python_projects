@@ -32,5 +32,5 @@ This repository contains a collection of Python scripts for web scraping, data r
 
 - Python 3.7 or higher
 - Common Python libraries:
-  ```bash
-  pip install requests beautifulsoup4 pandas matplotlib selenium numpy
+```bash
+pip install selenium requests beautifulsoup4 googletrans pandas matplotlib
